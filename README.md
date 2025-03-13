@@ -1,4 +1,3 @@
-# Data-Analysis-Projects
 
 # Manufacturing Downtime Analysis
 Project Overview
